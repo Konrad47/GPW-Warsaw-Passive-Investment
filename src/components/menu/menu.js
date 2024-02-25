@@ -50,9 +50,9 @@ const Menu = () => {
     <>
       <div
         id="menu-container"
-        className={
-          isUnderTrigger ? "menu-container" : "menu-container menu-opaticy"
-        }
+        // className={
+        //   isUnderTrigger ? "menu-container" : "menu-container menu-opaticy"
+        // }
       >
         <svg
           className="gpw-icon"
