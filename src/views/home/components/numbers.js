@@ -9,7 +9,7 @@ const Numbers = () => {
     <>
       <div className="n-container n-background-attachment">
         <div className="container">
-          <div className="n-number-container">
+          {/* <div className="n-number-container">
             <div>
               <svg
                 className="n-icon"
@@ -100,7 +100,7 @@ const Numbers = () => {
                 <p className="p-number-desc">{t`numbers.number-desc3`}</p>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </>
