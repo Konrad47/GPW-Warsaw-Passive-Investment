@@ -259,7 +259,7 @@ const Menu = () => {
           )}
         </div>
       </div>
-      {/* {isHideMenu && (
+      {isHideMenu && (
         <div className="hide-menu">
           <a className="menu-link" href="#conference">{t`menu.conference`}</a>
           <a className="menu-link" href="#speakers">{t`menu.speakers`}</a>
@@ -275,7 +275,7 @@ const Menu = () => {
             className="register-btn menu-button-link"
           >{t`menu.register`}</a>
         </div>
-      )} */}
+      )}
     </>
   )
 }
