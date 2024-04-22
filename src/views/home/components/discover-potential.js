@@ -18,7 +18,7 @@ const DiscoverPotential = () => {
             </div>
             <StaticImage
               className="dp-image"
-              src="../../../images/dp/dp-image.png"
+              src="../../../images/dp/dp-image.webp"
               alt="Top image"
               placeholder="Top image"
               loading="lazy"

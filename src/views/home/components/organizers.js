@@ -14,21 +14,21 @@ const Organizers = () => {
           <div className="o-grid">
             <StaticImage
               className="o-image"
-              src="../../../images/organizers/o-beta-etf.png"
+              src="../../../images/organizers/o-beta-etf.webp"
               alt="Beta ETF"
               placeholder="Beta ETF"
               loading="lazy"
             />
             <StaticImage
               className="o-image"
-              src="../../../images/organizers/o-gpw.png"
+              src="../../../images/organizers/o-gpw.webp"
               alt="GPW"
               placeholder="GPW"
               loading="lazy"
             />
             <StaticImage
               className="o-image"
-              src="../../../images/organizers/o-m-bank.png"
+              src="../../../images/organizers/o-m-bank.webp"
               alt="mBank"
               placeholder="mBank"
               loading="lazy"
